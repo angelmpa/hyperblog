@@ -1,0 +1,25 @@
+[33mcommit 940a096e33f7bf3f255616bc387c522c611d7eea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Angel Pérez <angelprza@gmail.com>
+Date:   Mon Jun 26 08:52:25 2023 -0600
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit 94e50274452fc4fe5faed382bf9183fcaebc6683[m
+Author: Angel Pérez <angelprza@gmail.com>
+Date:   Mon Jun 26 08:49:09 2023 -0600
+
+    Agregamos un cambio a su estatura
+
+[33mcommit d3947a9e8c9db6e8c6ca8b938f079905128e78aa[m
+Author: Angel Pérez <angelprza@gmail.com>
+Date:   Fri Jun 23 08:58:15 2023 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit cf4330671643364dd50f7152046182a67e1d51f1[m
+Author: angelmpa <angelprza@gmail.com>
+Date:   Fri Jun 23 08:49:06 2023 -0600
+
+    Este es el primer commit de este archivo
